@@ -1,0 +1,7 @@
+web-frontend/node_modules/
+server/node_modules/
+web-frontend/dist/
+server/dist/
+web-frontend/.env/
+server/.env/
+web-frontend/.next/
